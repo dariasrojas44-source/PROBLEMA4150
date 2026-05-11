@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Estática: Ejes y Poleas",
+  "description": "Simulador técnico interactivo para la resolución del problema 4.150 de Beer & Johnston, enfocado en equilibrio de cuerpos rígidos en 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
